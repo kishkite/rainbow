@@ -15,3 +15,8 @@ added cars
 honda
 toyota
 ford
+
+added fruits
+apple
+banana
+oranges
