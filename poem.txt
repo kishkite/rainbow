@@ -8,3 +8,5 @@ white
 black
 orange
 brown
+purple
+maroon
